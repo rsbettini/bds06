@@ -1,4 +1,4 @@
-package com.devsuperior.movieflix.controllers;
+ package com.devsuperior.movieflix.controllers;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
